@@ -1,0 +1,27 @@
+{
+  "name": "nodejspractice",
+  "version": "1.0.0",
+  "description": "practice server",
+  "keywords": [
+    "test"
+  ],
+  "homepage": "https://github.com/Pillz-Madics/CreateiSever#readme",
+  "bugs": {
+    "url": "https://github.com/Pillz-Madics/CreateiSever/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pillz-Madics/CreateiSever.git"
+  },
+  "license": "ISC",
+  "author": "Ludwick",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
